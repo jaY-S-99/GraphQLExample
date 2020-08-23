@@ -1,0 +1,1 @@
+exports.mongoURL = 'mongodb+srv://admin:graphqltut1@cluster0.rezyd.gcp.mongodb.net/graphqltut?retryWrites=true&w=majority'
